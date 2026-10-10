@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>PropertyRentalSystem</label>
+	</settings>
+	<users>
+		<user>
+			<path>PropertyRentalSystem.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>PropertyRentalSystem.jcp</path>
+		</project>
+	</projects>
+</workspace>

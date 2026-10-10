@@ -1,0 +1,122 @@
+<
+warehouse
+P005
+2000.0
+5000.0
+Penang, Bayan Lepas
+Warehouse
+Available
+10
+Well maintained property.
+8.5
+>
+<
+office
+P004
+3000.0
+1500.0
+Kuala Lumpur, City Centre
+Office
+Available
+10
+Well maintained property.
+>
+<
+villa
+P007
+6000.0
+3500.0
+Selangor, Petaling Jaya
+Villa
+Available
+6
+Well maintained property.
+3
+true
+false
+>
+<
+apartment
+P006
+1800.0
+900.0
+Johor Bahru, Taman Molek
+Apartment
+Available
+4
+Well maintained property.
+8
+>
+<
+apartment
+P001
+2000.0
+800.0
+Penang, George Town
+Apartment
+Available
+6
+Well maintained property.
+5
+>
+<
+villa
+P003
+5000.0
+3000.0
+Penang, Batu Ferringhi
+Villa
+Available
+4
+Well maintained property.
+2
+true
+true
+>
+<
+apartment
+P002
+2500.0
+1000.0
+Kuala Lumpur, Bangsar
+Apartment
+Available
+4
+Well maintained property.
+12
+>
+<
+apartment
+P010
+1200.0
+700.0
+Melaka, Bandar Hilir
+Apartment
+Available
+2
+Well maintained property.
+4
+>
+<
+warehouse
+P009
+2200.0
+6000.0
+Kuala Lumpur, Cheras
+Warehouse
+Available
+10
+Well maintained property.
+9.0
+>
+<
+office
+P008
+2800.0
+1200.0
+Penang, Bayan Baru
+Office
+Available
+6
+Well maintained property.
+>

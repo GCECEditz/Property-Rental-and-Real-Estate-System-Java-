@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>PropertyRentalSystem</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>PropertyRentalSystem</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<folderitem>
+				<path>src\helpers</path>
+			</folderitem>
+			<folderitem>
+				<path>src\persons</path>
+			</folderitem>
+			<folderitem>
+				<path>src\properties</path>
+			</folderitem>
+			<folderitem>
+				<path>src\requests</path>
+			</folderitem>
+			<folderitem>
+				<path>src\lease</path>
+			</folderitem>
+			<folderitem>
+				<path>dat</path>
+			</folderitem>
+			<fileitem>
+				<path>src\PropertyRentalSystem.java</path>
+				<collapsedfolds>0;0;235;198</collapsedfolds>
+			</fileitem>
+			<fileitem>
+				<path>src\helpers\DataInputHelper.java</path>
+				<collapsedfolds>223;205;188;171;155;125;108;91;73;0</collapsedfolds>
+			</fileitem>
+			<fileitem>
+				<path>src\helpers\LoadHelper.java</path>
+				<collapsedfolds>0;0;0;0;0;0;0;0;0;0;0;0;328;297;272;247;227;208;187;167;109;97;82</collapsedfolds>
+			</fileitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\PropertyRentalSystem.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>

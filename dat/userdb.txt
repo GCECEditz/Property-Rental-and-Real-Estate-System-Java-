@@ -1,0 +1,48 @@
+<
+tenant
+0
+Mary
+mary@gmail.com
+012-3456789
+5.0 undoubtly polite
+2500.0
+2
+>
+<
+landlord
+1
+John Doe
+johnd@gmail.com
+987-6543210
+0.0 undoubtly rude
+P001
+>
+<
+agent
+2
+Sue
+sue@gmail.com
+123-1231231
+0.0 no comment
+P002
+>
+<
+tenant
+3
+Polly
+polly@gmail.com
+123-1234567
+3.7 appreciates good-looking wallpapers
+4000.0
+-1
+>
+<
+tenant
+4
+Adam Sapper
+adamsapper@gmail.com
+013-4727732
+0.0 
+6000.0
+-1
+>
